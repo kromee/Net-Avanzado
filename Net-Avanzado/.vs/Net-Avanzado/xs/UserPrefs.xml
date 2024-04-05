@@ -1,0 +1,31 @@
+﻿<Properties StartupConfiguration="{A24BA512-C3CD-4415-82F1-1FDCAEDC634D}|Default">
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches>
+    <Watch file="../../../../../NetMarket/NetMarket/WebApi/Middleware/ExceptionMiddleware.cs" line="33" column="18" endLine="33" endColumn="31" offsetX="-1" offsetY="-1" expression="e.InnerException.Data" liveUpdate="False" />
+  </MonoDevelop.Ide.DebuggingService.PinnedWatches>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workbench ActiveDocument="Net-Avanzado/Delegados.cs">
+    <Files>
+      <File FileName="Net-Avanzado/Program.cs" Line="14" Column="30" />
+      <File FileName="Net-Avanzado/Delegados.cs" Line="64" Column="10" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Net-Avanzado" expanded="True">
+            <Node name="Net-Avanzado" expanded="True">
+              <Node name="Delegados.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Net-Avanzado PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

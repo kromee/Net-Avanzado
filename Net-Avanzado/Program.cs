@@ -34,3 +34,14 @@ var mayor2 = lambda.MayorEdadLambda2();
 Console.WriteLine($"{mayor2} son las personas mayores a 18 años");
 
 
+
+
+Console.WriteLine("\n\n");
+
+Console.WriteLine("Covariance & Contravariance");
+
+Covariance covariance = new Covariance();
+covariance.CovarianceTest();
+covariance.CovarianceTest2();
+covariance.ContravarianceTest3();
+

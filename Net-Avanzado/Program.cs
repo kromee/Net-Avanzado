@@ -45,3 +45,10 @@ covariance.CovarianceTest();
 covariance.CovarianceTest2();
 covariance.ContravarianceTest3();
 
+
+Console.WriteLine("\n\n");
+
+Console.WriteLine("YIELD");
+Yield yield = new Yield();
+yield.EjemploYield();
+

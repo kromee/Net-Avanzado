@@ -1,8 +1,15 @@
 {
   "version": 2,
-  "dgSpecHash": "y1uR84Sp+IauuxD1uDlVVgPPUClz0RsjcSCl19yda9v9cYDWDXda1KRCAZn8DD3G0ywbBNXsINkTwTYSiFYQdQ==",
+  "dgSpecHash": "+CePyV8ubbNMpPY6R1n9JaitOB6wheCg0UklkJxVvNwR6XxB/QEdmG2AcxQbuspc0kd0U/tgoKk1sAOO1B3flQ==",
   "success": true,
   "projectFilePath": "/Users/eduardodominguez/Desktop/Cursos/Net Avanzado/Net-Avanzado/Net-Avanzado/Net-Avanzado.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "/Users/eduardodominguez/.nuget/packages/microsoft.aspnetcore.http.abstractions/2.2.0/microsoft.aspnetcore.http.abstractions.2.2.0.nupkg.sha512",
+    "/Users/eduardodominguez/.nuget/packages/microsoft.aspnetcore.http.features/2.2.0/microsoft.aspnetcore.http.features.2.2.0.nupkg.sha512",
+    "/Users/eduardodominguez/.nuget/packages/microsoft.extensions.primitives/2.2.0/microsoft.extensions.primitives.2.2.0.nupkg.sha512",
+    "/Users/eduardodominguez/.nuget/packages/system.memory/4.5.1/system.memory.4.5.1.nupkg.sha512",
+    "/Users/eduardodominguez/.nuget/packages/system.runtime.compilerservices.unsafe/4.5.1/system.runtime.compilerservices.unsafe.4.5.1.nupkg.sha512",
+    "/Users/eduardodominguez/.nuget/packages/system.text.encodings.web/4.5.0/system.text.encodings.web.4.5.0.nupkg.sha512"
+  ],
   "logs": []
 }

@@ -1,0 +1,12 @@
+/Users/eduardodominguez/Desktop/Cursos/Net Avanzado/Net-Avanzado/Translations/bin/Debug/net7.0/Translations.deps.json
+/Users/eduardodominguez/Desktop/Cursos/Net Avanzado/Net-Avanzado/Translations/bin/Debug/net7.0/Translations.dll
+/Users/eduardodominguez/Desktop/Cursos/Net Avanzado/Net-Avanzado/Translations/bin/Debug/net7.0/Translations.pdb
+/Users/eduardodominguez/Desktop/Cursos/Net Avanzado/Net-Avanzado/Translations/obj/Debug/net7.0/Translations.csproj.AssemblyReference.cache
+/Users/eduardodominguez/Desktop/Cursos/Net Avanzado/Net-Avanzado/Translations/obj/Debug/net7.0/Translations.GeneratedMSBuildEditorConfig.editorconfig
+/Users/eduardodominguez/Desktop/Cursos/Net Avanzado/Net-Avanzado/Translations/obj/Debug/net7.0/Translations.AssemblyInfoInputs.cache
+/Users/eduardodominguez/Desktop/Cursos/Net Avanzado/Net-Avanzado/Translations/obj/Debug/net7.0/Translations.AssemblyInfo.cs
+/Users/eduardodominguez/Desktop/Cursos/Net Avanzado/Net-Avanzado/Translations/obj/Debug/net7.0/Translations.csproj.CoreCompileInputs.cache
+/Users/eduardodominguez/Desktop/Cursos/Net Avanzado/Net-Avanzado/Translations/obj/Debug/net7.0/Translations.dll
+/Users/eduardodominguez/Desktop/Cursos/Net Avanzado/Net-Avanzado/Translations/obj/Debug/net7.0/refint/Translations.dll
+/Users/eduardodominguez/Desktop/Cursos/Net Avanzado/Net-Avanzado/Translations/obj/Debug/net7.0/Translations.pdb
+/Users/eduardodominguez/Desktop/Cursos/Net Avanzado/Net-Avanzado/Translations/obj/Debug/net7.0/ref/Translations.dll

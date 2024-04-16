@@ -1,0 +1,23 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net7.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <EmbeddedResource Update="TraduccionErrores.ex.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>TraduccionErrores.es.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Update="TraduccionErrores.ex.Designer.cs">
+      <DependentUpon>TraduccionErrores.ex.resx</DependentUpon>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Remove="TraduccionErrores.es" />
+  </ItemGroup>
+</Project>

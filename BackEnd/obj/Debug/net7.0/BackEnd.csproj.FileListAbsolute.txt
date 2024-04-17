@@ -49,3 +49,5 @@
 /Users/eduardodominguez/Desktop/Cursos/Net Avanzado/Net-Avanzado/BackEnd/obj/Debug/net7.0/BackEnd.Translations.TraduccionErroresX.resources
 /Users/eduardodominguez/Desktop/Cursos/Net Avanzado/Net-Avanzado/BackEnd/obj/Debug/net7.0/BackEnd.Translations.TraduccionErroresX.en.resources
 /Users/eduardodominguez/Desktop/Cursos/Net Avanzado/Net-Avanzado/BackEnd/obj/Debug/net7.0/BackEnd.Translations.TraduccionErroresX.es.resources
+/Users/eduardodominguez/Desktop/Cursos/Net Avanzado/Net-Avanzado/BackEnd/bin/Debug/net7.0/Microsoft.Extensions.Caching.Redis.dll
+/Users/eduardodominguez/Desktop/Cursos/Net Avanzado/Net-Avanzado/BackEnd/bin/Debug/net7.0/StackExchange.Redis.StrongName.dll

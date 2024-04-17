@@ -47,6 +47,10 @@
               "target": "Package",
               "version": "[7.0.18, )"
             },
+            "Microsoft.Extensions.Caching.Redis": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
             "Netmentor.ROP.ApiExtensions.Translations": {
               "target": "Package",
               "version": "[1.0.15, )"

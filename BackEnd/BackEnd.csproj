@@ -13,6 +13,7 @@
     <PackageReference Include="Swashbuckle.AspNetCore" Version="6.5.0" />
     <PackageReference Include="Newtonsoft.Json" Version="13.0.3" />
     <PackageReference Include="Netmentor.ROP.ApiExtensions.Translations" Version="1.0.15" />
+    <PackageReference Include="Microsoft.Extensions.Caching.Redis" Version="2.2.0" />
   </ItemGroup>
 
   <ItemGroup>
@@ -40,8 +41,36 @@
   </ItemGroup>
   <ItemGroup>
     <None Remove="Translations\" />
+    <None Remove="Dto\" />
+    <None Remove="Services\" />
+    <None Remove="Services\WithCache\" />
+    <None Remove="Usuarios\" />
+    <None Remove="Usuarios\Entity\" />
+    <None Remove="Services\WithDistributedCache\" />
+    <None Remove="Empresa\" />
+    <None Remove="Empresa\Services\" />
+    <None Remove="Empresa\Services\Memory\" />
+    <None Remove="Empresa\Services\Distributed\" />
+    <None Remove="Repositories\" />
+    <None Remove="ServiceDependencies\" />
+    <None Remove="ServiceDependencies\WithCache \" />
+    <None Remove="ServiceDependencies\WithDistributedCache\" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="Translations\" />
+    <Folder Include="Dto\" />
+    <Folder Include="Services\" />
+    <Folder Include="Services\WithCache\" />
+    <Folder Include="Usuarios\" />
+    <Folder Include="Usuarios\Entity\" />
+    <Folder Include="Services\WithDistributedCache\" />
+    <Folder Include="Empresa\" />
+    <Folder Include="Empresa\Services\" />
+    <Folder Include="Empresa\Services\Memory\" />
+    <Folder Include="Empresa\Services\Distributed\" />
+    <Folder Include="Repositories\" />
+    <Folder Include="ServiceDependencies\" />
+    <Folder Include="ServiceDependencies\WithCache \" />
+    <Folder Include="ServiceDependencies\WithDistributedCache\" />
   </ItemGroup>
 </Project>

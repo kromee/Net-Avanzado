@@ -14,7 +14,9 @@ namespace BackEnd.Controllers
         private readonly ListUsersWithMemoryCache _usersWithMemoryCache;
         private readonly ListUsersWithDistributedCache _usersWithDistributedCache;
 
-        public UsuariosController(ListUsersWithCompanyName usersWithNameCompany, ListUsersWithMemoryCache usersWithMemoryCache,
+        public UsuariosController(
+            ListUsersWithCompanyName usersWithNameCompany,
+            ListUsersWithMemoryCache usersWithMemoryCache,
             ListUsersWithDistributedCache usersWithDistributedCache)
 		{
             _usersWithNameCompany = usersWithNameCompany;

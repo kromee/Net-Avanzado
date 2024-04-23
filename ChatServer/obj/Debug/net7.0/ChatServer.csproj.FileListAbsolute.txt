@@ -1,0 +1,14 @@
+/Users/eduardodominguez/Desktop/Cursos/Net Avanzado/Net-Avanzado/ChatServer/bin/Debug/net7.0/ChatServer
+/Users/eduardodominguez/Desktop/Cursos/Net Avanzado/Net-Avanzado/ChatServer/bin/Debug/net7.0/ChatServer.deps.json
+/Users/eduardodominguez/Desktop/Cursos/Net Avanzado/Net-Avanzado/ChatServer/bin/Debug/net7.0/ChatServer.runtimeconfig.json
+/Users/eduardodominguez/Desktop/Cursos/Net Avanzado/Net-Avanzado/ChatServer/bin/Debug/net7.0/ChatServer.dll
+/Users/eduardodominguez/Desktop/Cursos/Net Avanzado/Net-Avanzado/ChatServer/bin/Debug/net7.0/ChatServer.pdb
+/Users/eduardodominguez/Desktop/Cursos/Net Avanzado/Net-Avanzado/ChatServer/obj/Debug/net7.0/ChatServer.GeneratedMSBuildEditorConfig.editorconfig
+/Users/eduardodominguez/Desktop/Cursos/Net Avanzado/Net-Avanzado/ChatServer/obj/Debug/net7.0/ChatServer.AssemblyInfoInputs.cache
+/Users/eduardodominguez/Desktop/Cursos/Net Avanzado/Net-Avanzado/ChatServer/obj/Debug/net7.0/ChatServer.AssemblyInfo.cs
+/Users/eduardodominguez/Desktop/Cursos/Net Avanzado/Net-Avanzado/ChatServer/obj/Debug/net7.0/ChatServer.csproj.CoreCompileInputs.cache
+/Users/eduardodominguez/Desktop/Cursos/Net Avanzado/Net-Avanzado/ChatServer/obj/Debug/net7.0/ChatServer.dll
+/Users/eduardodominguez/Desktop/Cursos/Net Avanzado/Net-Avanzado/ChatServer/obj/Debug/net7.0/refint/ChatServer.dll
+/Users/eduardodominguez/Desktop/Cursos/Net Avanzado/Net-Avanzado/ChatServer/obj/Debug/net7.0/ChatServer.pdb
+/Users/eduardodominguez/Desktop/Cursos/Net Avanzado/Net-Avanzado/ChatServer/obj/Debug/net7.0/ChatServer.genruntimeconfig.cache
+/Users/eduardodominguez/Desktop/Cursos/Net Avanzado/Net-Avanzado/ChatServer/obj/Debug/net7.0/ref/ChatServer.dll

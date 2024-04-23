@@ -1,0 +1,15 @@
+/Users/eduardodominguez/Desktop/Cursos/Net Avanzado/Net-Avanzado/Net-Avanzado/bin/Debug/net7.0/Net-Avanzado
+/Users/eduardodominguez/Desktop/Cursos/Net Avanzado/Net-Avanzado/Net-Avanzado/bin/Debug/net7.0/Net-Avanzado.deps.json
+/Users/eduardodominguez/Desktop/Cursos/Net Avanzado/Net-Avanzado/Net-Avanzado/bin/Debug/net7.0/Net-Avanzado.runtimeconfig.json
+/Users/eduardodominguez/Desktop/Cursos/Net Avanzado/Net-Avanzado/Net-Avanzado/bin/Debug/net7.0/Net-Avanzado.dll
+/Users/eduardodominguez/Desktop/Cursos/Net Avanzado/Net-Avanzado/Net-Avanzado/bin/Debug/net7.0/Net-Avanzado.pdb
+/Users/eduardodominguez/Desktop/Cursos/Net Avanzado/Net-Avanzado/Net-Avanzado/obj/Debug/net7.0/Net-Avanzado.csproj.AssemblyReference.cache
+/Users/eduardodominguez/Desktop/Cursos/Net Avanzado/Net-Avanzado/Net-Avanzado/obj/Debug/net7.0/Net-Avanzado.GeneratedMSBuildEditorConfig.editorconfig
+/Users/eduardodominguez/Desktop/Cursos/Net Avanzado/Net-Avanzado/Net-Avanzado/obj/Debug/net7.0/Net-Avanzado.AssemblyInfoInputs.cache
+/Users/eduardodominguez/Desktop/Cursos/Net Avanzado/Net-Avanzado/Net-Avanzado/obj/Debug/net7.0/Net-Avanzado.AssemblyInfo.cs
+/Users/eduardodominguez/Desktop/Cursos/Net Avanzado/Net-Avanzado/Net-Avanzado/obj/Debug/net7.0/Net-Avanzado.csproj.CoreCompileInputs.cache
+/Users/eduardodominguez/Desktop/Cursos/Net Avanzado/Net-Avanzado/Net-Avanzado/obj/Debug/net7.0/Net-Avanzado.dll
+/Users/eduardodominguez/Desktop/Cursos/Net Avanzado/Net-Avanzado/Net-Avanzado/obj/Debug/net7.0/refint/Net-Avanzado.dll
+/Users/eduardodominguez/Desktop/Cursos/Net Avanzado/Net-Avanzado/Net-Avanzado/obj/Debug/net7.0/Net-Avanzado.pdb
+/Users/eduardodominguez/Desktop/Cursos/Net Avanzado/Net-Avanzado/Net-Avanzado/obj/Debug/net7.0/Net-Avanzado.genruntimeconfig.cache
+/Users/eduardodominguez/Desktop/Cursos/Net Avanzado/Net-Avanzado/Net-Avanzado/obj/Debug/net7.0/ref/Net-Avanzado.dll

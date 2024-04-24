@@ -1,0 +1,15 @@
+/Users/eduardodominguez/Desktop/Cursos/Net Avanzado/Net-Avanzado/CamparaObjetos/bin/Debug/net7.0/CamparaObjetos
+/Users/eduardodominguez/Desktop/Cursos/Net Avanzado/Net-Avanzado/CamparaObjetos/bin/Debug/net7.0/CamparaObjetos.deps.json
+/Users/eduardodominguez/Desktop/Cursos/Net Avanzado/Net-Avanzado/CamparaObjetos/bin/Debug/net7.0/CamparaObjetos.runtimeconfig.json
+/Users/eduardodominguez/Desktop/Cursos/Net Avanzado/Net-Avanzado/CamparaObjetos/bin/Debug/net7.0/CamparaObjetos.dll
+/Users/eduardodominguez/Desktop/Cursos/Net Avanzado/Net-Avanzado/CamparaObjetos/bin/Debug/net7.0/CamparaObjetos.pdb
+/Users/eduardodominguez/Desktop/Cursos/Net Avanzado/Net-Avanzado/CamparaObjetos/obj/Debug/net7.0/CamparaObjetos.csproj.AssemblyReference.cache
+/Users/eduardodominguez/Desktop/Cursos/Net Avanzado/Net-Avanzado/CamparaObjetos/obj/Debug/net7.0/CamparaObjetos.GeneratedMSBuildEditorConfig.editorconfig
+/Users/eduardodominguez/Desktop/Cursos/Net Avanzado/Net-Avanzado/CamparaObjetos/obj/Debug/net7.0/CamparaObjetos.AssemblyInfoInputs.cache
+/Users/eduardodominguez/Desktop/Cursos/Net Avanzado/Net-Avanzado/CamparaObjetos/obj/Debug/net7.0/CamparaObjetos.AssemblyInfo.cs
+/Users/eduardodominguez/Desktop/Cursos/Net Avanzado/Net-Avanzado/CamparaObjetos/obj/Debug/net7.0/CamparaObjetos.csproj.CoreCompileInputs.cache
+/Users/eduardodominguez/Desktop/Cursos/Net Avanzado/Net-Avanzado/CamparaObjetos/obj/Debug/net7.0/CamparaObjetos.dll
+/Users/eduardodominguez/Desktop/Cursos/Net Avanzado/Net-Avanzado/CamparaObjetos/obj/Debug/net7.0/refint/CamparaObjetos.dll
+/Users/eduardodominguez/Desktop/Cursos/Net Avanzado/Net-Avanzado/CamparaObjetos/obj/Debug/net7.0/CamparaObjetos.pdb
+/Users/eduardodominguez/Desktop/Cursos/Net Avanzado/Net-Avanzado/CamparaObjetos/obj/Debug/net7.0/CamparaObjetos.genruntimeconfig.cache
+/Users/eduardodominguez/Desktop/Cursos/Net Avanzado/Net-Avanzado/CamparaObjetos/obj/Debug/net7.0/ref/CamparaObjetos.dll

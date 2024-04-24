@@ -7,5 +7,5 @@ build_property.InvariantGlobalization =
 build_property.PlatformNeutralAssembly = 
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
-build_property.RootNamespace = ChatServer
-build_property.ProjectDir = /Users/eduardodominguez/Desktop/Cursos/Net Avanzado/Net-Avanzado/ChatServer/
+build_property.RootNamespace = CamparaObjetos
+build_property.ProjectDir = /Users/eduardodominguez/Desktop/Cursos/Net Avanzado/Net-Avanzado/CamparaObjetos/

@@ -20,6 +20,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChatServer", "ChatServer\Ch
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChatCliente", "ChatCliente\ChatCliente.csproj", "{B03498CA-038F-4347-8ADA-2CF5D8898C8F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CamparaObjetos", "CamparaObjetos\CamparaObjetos.csproj", "{02A859DA-885F-4CA7-AF56-AEB755A0C387}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -50,6 +52,10 @@ Global
 		{B03498CA-038F-4347-8ADA-2CF5D8898C8F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B03498CA-038F-4347-8ADA-2CF5D8898C8F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B03498CA-038F-4347-8ADA-2CF5D8898C8F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{02A859DA-885F-4CA7-AF56-AEB755A0C387}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{02A859DA-885F-4CA7-AF56-AEB755A0C387}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{02A859DA-885F-4CA7-AF56-AEB755A0C387}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{02A859DA-885F-4CA7-AF56-AEB755A0C387}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

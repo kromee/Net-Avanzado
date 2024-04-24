@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/eduardodominguez/Desktop/Cursos/Net Avanzado/Net-Avanzado/ChatServer/ChatServer.csproj": {}
+    "/Users/eduardodominguez/Desktop/Cursos/Net Avanzado/Net-Avanzado/CamparaObjetos/CamparaObjetos.csproj": {}
   },
   "projects": {
-    "/Users/eduardodominguez/Desktop/Cursos/Net Avanzado/Net-Avanzado/ChatServer/ChatServer.csproj": {
+    "/Users/eduardodominguez/Desktop/Cursos/Net Avanzado/Net-Avanzado/CamparaObjetos/CamparaObjetos.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/eduardodominguez/Desktop/Cursos/Net Avanzado/Net-Avanzado/ChatServer/ChatServer.csproj",
-        "projectName": "ChatServer",
-        "projectPath": "/Users/eduardodominguez/Desktop/Cursos/Net Avanzado/Net-Avanzado/ChatServer/ChatServer.csproj",
+        "projectUniqueName": "/Users/eduardodominguez/Desktop/Cursos/Net Avanzado/Net-Avanzado/CamparaObjetos/CamparaObjetos.csproj",
+        "projectName": "CamparaObjetos",
+        "projectPath": "/Users/eduardodominguez/Desktop/Cursos/Net Avanzado/Net-Avanzado/CamparaObjetos/CamparaObjetos.csproj",
         "packagesPath": "/Users/eduardodominguez/.nuget/packages/",
-        "outputPath": "/Users/eduardodominguez/Desktop/Cursos/Net Avanzado/Net-Avanzado/ChatServer/obj/",
+        "outputPath": "/Users/eduardodominguez/Desktop/Cursos/Net Avanzado/Net-Avanzado/CamparaObjetos/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/eduardodominguez/.nuget/NuGet/NuGet.Config"
@@ -49,9 +49,6 @@
           "assetTargetFallback": true,
           "warn": true,
           "frameworkReferences": {
-            "Microsoft.AspNetCore.App": {
-              "privateAssets": "none"
-            },
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }

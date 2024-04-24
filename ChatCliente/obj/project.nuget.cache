@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "7Ugn4D712G2mI0u25MZ6L8T0VmSbEh8iWCX3CaYzaXjNGJ9atfCfY27cVHXQsOloJXjj79uf/P8gNQUG1mDqmw==",
+  "dgSpecHash": "vSIYpfKZWUHAg62+H9Ab5wbxVVFyi5NgiVXVgAY37b8RS/3PZX+RDmJunuIcDfiaer51Ceg5fIamuuIjSWQl0Q==",
   "success": true,
   "projectFilePath": "/Users/eduardodominguez/Desktop/Cursos/Net Avanzado/Net-Avanzado/ChatCliente/ChatCliente.csproj",
   "expectedPackageFiles": [
@@ -38,16 +38,11 @@
     "/Users/eduardodominguez/.nuget/packages/microsoft.extensions.primitives/8.0.0/microsoft.extensions.primitives.8.0.0.nupkg.sha512",
     "/Users/eduardodominguez/.nuget/packages/microsoft.jsinterop/7.0.18/microsoft.jsinterop.7.0.18.nupkg.sha512",
     "/Users/eduardodominguez/.nuget/packages/microsoft.jsinterop.webassembly/7.0.18/microsoft.jsinterop.webassembly.7.0.18.nupkg.sha512",
-    "/Users/eduardodominguez/.nuget/packages/microsoft.net.illink.analyzers/7.0.100-1.23211.1/microsoft.net.illink.analyzers.7.0.100-1.23211.1.nupkg.sha512",
-    "/Users/eduardodominguez/.nuget/packages/microsoft.net.illink.tasks/7.0.100-1.23211.1/microsoft.net.illink.tasks.7.0.100-1.23211.1.nupkg.sha512",
-    "/Users/eduardodominguez/.nuget/packages/microsoft.net.sdk.webassembly.pack/8.0.3/microsoft.net.sdk.webassembly.pack.8.0.3.nupkg.sha512",
     "/Users/eduardodominguez/.nuget/packages/system.io.pipelines/8.0.0/system.io.pipelines.8.0.0.nupkg.sha512",
     "/Users/eduardodominguez/.nuget/packages/system.text.encodings.web/8.0.0/system.text.encodings.web.8.0.0.nupkg.sha512",
     "/Users/eduardodominguez/.nuget/packages/system.text.json/8.0.3/system.text.json.8.0.3.nupkg.sha512",
     "/Users/eduardodominguez/.nuget/packages/system.threading.channels/8.0.0/system.threading.channels.8.0.0.nupkg.sha512",
-    "/Users/eduardodominguez/.nuget/packages/microsoft.netcore.app.ref/7.0.17/microsoft.netcore.app.ref.7.0.17.nupkg.sha512",
-    "/Users/eduardodominguez/.nuget/packages/microsoft.netcore.app.runtime.mono.browser-wasm/7.0.17/microsoft.netcore.app.runtime.mono.browser-wasm.7.0.17.nupkg.sha512",
-    "/Users/eduardodominguez/.nuget/packages/microsoft.aspnetcore.app.ref/7.0.17/microsoft.aspnetcore.app.ref.7.0.17.nupkg.sha512"
+    "/Users/eduardodominguez/.nuget/packages/microsoft.netcore.app.runtime.mono.browser-wasm/7.0.18/microsoft.netcore.app.runtime.mono.browser-wasm.7.0.18.nupkg.sha512"
   ],
   "logs": []
 }

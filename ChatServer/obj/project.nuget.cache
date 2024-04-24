@@ -1,12 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "QxP2AEB7iyLXdB8iUs2w98q4KELQg9+UfSXi4ibq5st3RvBaWk8ndI7K00JXnw+v/6hIfIsb4ViWtWQ/Mpn5TA==",
+  "dgSpecHash": "2InxUXe06gw1jszv34Cs/EEzEsbzWkN+gORrk+oxVHUDyqauC+5VyxOOBqLAcGTb/scztgYZrsdiBrGdVhj+cA==",
   "success": true,
   "projectFilePath": "/Users/eduardodominguez/Desktop/Cursos/Net Avanzado/Net-Avanzado/ChatServer/ChatServer.csproj",
-  "expectedPackageFiles": [
-    "/Users/eduardodominguez/.nuget/packages/microsoft.netcore.app.ref/7.0.17/microsoft.netcore.app.ref.7.0.17.nupkg.sha512",
-    "/Users/eduardodominguez/.nuget/packages/microsoft.aspnetcore.app.ref/7.0.17/microsoft.aspnetcore.app.ref.7.0.17.nupkg.sha512",
-    "/Users/eduardodominguez/.nuget/packages/microsoft.netcore.app.host.osx-arm64/7.0.17/microsoft.netcore.app.host.osx-arm64.7.0.17.nupkg.sha512"
-  ],
+  "expectedPackageFiles": [],
   "logs": []
 }
